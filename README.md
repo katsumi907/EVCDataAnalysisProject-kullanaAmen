@@ -43,7 +43,7 @@ The system presents two options for providing input: via text or voice recording
 
 This project was developed by a team of dedicated developers:
 
-- [Member 1](https://github.com/Member1)
+- [Member 1](https://github.com/zain-codes)
 - [Member 2](https://github.com/Member2)
 - [Member 3](https://github.com/Member3)
 - [Member 4](https://github.com/Member4)
