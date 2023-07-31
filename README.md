@@ -43,7 +43,7 @@ The system presents two options for providing input: via text or voice recording
 
 This project was developed by a team of dedicated developers:
 
-- [Ekram](https://github.com/Member3)
-- [Abdulrahamn Khalid](https://github.com/Member2)
+- [Ekram](https://github.com/Ekram-20)
+- [Abdulrahamn Khalid](https://github.com/Abdulrahman0Khaled)
 - [Tarek Zain](https://github.com/zain-codes)
-- [Shahad](https://github.com/Member4)
+- [Shahad](https://github.com/Shahad-Mohammed)
